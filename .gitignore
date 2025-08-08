@@ -1,0 +1,5 @@
+_unsloth_sentencepiece_temp
+logs
+output
+*.log
+unsloth_compiled_cache
